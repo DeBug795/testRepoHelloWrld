@@ -14,5 +14,8 @@ public class Main {
         int var3 = math.subtract(5,6);
         System.out.println(var3);
 
+        double var4 = math.divide(5,6);
+        System.out.println(var4);
+
     }
 }
